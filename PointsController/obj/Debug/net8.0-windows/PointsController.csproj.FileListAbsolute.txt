@@ -1,0 +1,14 @@
+C:\Users\Student\Downloads\2labaKozlov\PointsController\bin\Debug\net8.0-windows\PointsController.exe
+C:\Users\Student\Downloads\2labaKozlov\PointsController\bin\Debug\net8.0-windows\PointsController.deps.json
+C:\Users\Student\Downloads\2labaKozlov\PointsController\bin\Debug\net8.0-windows\PointsController.runtimeconfig.json
+C:\Users\Student\Downloads\2labaKozlov\PointsController\bin\Debug\net8.0-windows\PointsController.dll
+C:\Users\Student\Downloads\2labaKozlov\PointsController\bin\Debug\net8.0-windows\PointsController.pdb
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.AssemblyInfoInputs.cache
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.AssemblyInfo.cs
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.dll
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\refint\PointsController.dll
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.pdb
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\PointsController.genruntimeconfig.cache
+C:\Users\Student\Downloads\2labaKozlov\PointsController\obj\Debug\net8.0-windows\ref\PointsController.dll
